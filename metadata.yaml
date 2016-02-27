@@ -1,0 +1,36 @@
+_repo: Henry-IV-Part-1_2251
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: David Scott Kastan lucidly explores the remarkable richness and the ambitious
+  design of King Henry IV Part 1 and shows how these complicate any easy sense of
+  what kind of play it is. Conventionally regarded as a history play, much of it is
+  in fact conspicuously invented fiction, and Kastan argues that the non-historical,
+  comic plot does not simply parody the historical action but by its existence raises
+  questions about the very nature of history. The full and engaging introduction devotes
+  extensive discussion to the play's language, indicating how its insistent economic
+  vocabulary provides texture for the social concerns of the play and focuses attention
+  on the central relationship between value and political authority.
+gutenberg_issued: '2000-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2251'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical drama'
+- !lcsh 'Henry IV, King of England, 1367-1413 -- Drama'
+- !lcsh 'Great Britain -- History -- Henry IV, 1399-1413 -- Drama'
+- !lcc 'PR'
+title: Henry IV, Part 1
+url: http://www.gutenberg.org/ebooks/2251
