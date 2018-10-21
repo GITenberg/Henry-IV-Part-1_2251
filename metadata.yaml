@@ -1,5 +1,5 @@
 _repo: Henry-IV-Part-1_2251
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -38,5 +38,6 @@ subjects:
 - !lcsh 'Henry IV, King of England, 1367-1413 -- Drama'
 - !lcsh 'Great Britain -- History -- Henry IV, 1399-1413 -- Drama'
 - !lcc 'PR'
+- GITenberg
 title: Henry IV, Part 1
 url: http://www.gutenberg.org/ebooks/2251
